@@ -1,6 +1,6 @@
-# Checklist de Instalação e Configuração do Git e GitHub para Windows (Iniciante)
+# Checklist de Instalação e Configuração do Git e GitHub para Windows
 
-Este guia passo a passo foi elaborado para **iniciantes** que utilizam o sistema operacional **Windows**. Ele cobre a instalação do Git, a criação de uma conta no GitHub e a configuração inicial necessária para começar a desenvolver projetos de software.
+Este guia passo a passo foi elaborado para o sistema operacional **Windows**. Ele cobre a instalação do Git, a criação de uma conta no GitHub e a configuração inicial necessária para começar a desenvolver projetos de software.
 
 ---
 
