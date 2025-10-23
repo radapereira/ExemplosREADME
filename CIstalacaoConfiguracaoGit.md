@@ -19,9 +19,7 @@ O Git é a ferramenta de controle de versão que você instala localmente em seu
 | **1.4** | **Conclusão** | Clique em **"Install"** (Instalar) e, ao finalizar, desmarque a opção **"View Release Notes"** e clique em **"Finish"** (Concluir). | |
 | **1.5** | **Verificação da Instalação** | Abra o **"Git Bash"** (procure no menu Iniciar) ou o **Prompt de Comando/PowerShell** e digite o comando abaixo: | |
 | | | ```bash
-git --version
-``` | |
-| | | O resultado deve mostrar a versão do Git instalada, confirmando o sucesso da instalação. | |
+git --version| | O resultado deve mostrar a versão do Git instalada, confirmando o sucesso da instalação. | |
 
 ---
 
